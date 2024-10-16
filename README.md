@@ -20,3 +20,17 @@
 ## Submission status
 
 - This assignment will accept submissions from Friday, 18 October 2024, 12:00 PM
+
+## Story
+
+### Endings
+
+- Good: Winning The lottery
+- Bad: End Up In The Hospital
+- Nuetral: Getting Home With No Events
+
+#### Winning The Lottery
+
+#### End Up In the Hospital
+
+#### Getting Home With No Events

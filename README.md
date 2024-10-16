@@ -23,6 +23,10 @@
 
 ## Story
 
+- Starts with the player waking up.
+- Scenario: Player is on their way to work. On their way out they head back into their home to retrieve an item to bring with them.
+- Presents 3 choices (Bring lucky charm(Item) (Good Path) | Bring Pet (Bad Path) |  )
+
 ### Endings
 
 - Good: Winning The lottery
@@ -30,6 +34,11 @@
 - Nuetral: Getting Home With No Events
 
 #### Winning The Lottery
+
+-Scenario: Leaving their home they were on their way to work. Suddenly (somethings happens). You stop, look around before deciding to stop to hear what had happened
+   -Options (Stop at Gas Station | Super Market)
+
+- Scenario: Talk to cashier
 
 #### End Up In the Hospital
 

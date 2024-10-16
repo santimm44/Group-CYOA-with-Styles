@@ -35,8 +35,8 @@
 
 #### Winning The Lottery
 
--Scenario: Leaving their home they were on their way to work. Suddenly (somethings happens). You stop, look around before deciding to stop to hear what had happened
-   -Options (Stop at Gas Station | Super Market)
+- Scenario: Leaving their home they were on their way to work. Suddenly (somethings happens). You stop, look around before deciding to stop to hear what had happened
+  - Options (Stop at Gas Station | Super Market)
 
 - Scenario: Talk to cashier
 

@@ -16,6 +16,11 @@
 
 ---
 
+# 2a. Get Snacks
+
+- **Go Some where else**
+- **Check Lottery Tickets**
+
 # 3. Lottery Tickets (Pick 1)
 
 - **Ticket 1**: Lucky Sunrise  
@@ -34,7 +39,10 @@ _(One is a winning ticket for **$500**!)_
 
 ---
 
-# 5. Final Choice
-
-- **Spend Winnings on More Snacks**  
+# 4a. (if win)
+  
 - **Save Money & Head Home**
+
+# 4b. (if lose)
+
+- **You Lose Didn't Want to become a gambler so you went _____

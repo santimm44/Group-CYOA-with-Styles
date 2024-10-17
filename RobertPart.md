@@ -16,7 +16,7 @@
 
 ---
 
-# 3. Lottery Tickets (Pick 1-2)
+# 3. Lottery Tickets (Pick 1)
 
 - **Ticket 1**: Lucky Sunrise  
 - **Ticket 2**: Midnight Fortune  

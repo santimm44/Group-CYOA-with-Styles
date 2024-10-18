@@ -53,3 +53,6 @@ With some success, you found a new route. You made it before the concert started
 #### Speed is KEY. Speed is KING!
 
 One bad decision deserves another. You, on top of choosing the slower route, decided to speed in traffic. Well, thankfully, no one got hurt by your reckless driving, but now you are on the side of a road with a police officer asking you what were you thinking. Guess you won't be seeing your favorite band after all.
+
+## GoodEndStep2a.html
+## GoodEndStep3bLose.html

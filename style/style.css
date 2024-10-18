@@ -63,3 +63,11 @@
     background-size: cover;
     background-position: center;
   }
+  
+  .changeWidth
+  {
+  
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: center;
+  }

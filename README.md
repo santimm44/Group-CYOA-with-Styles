@@ -1,8 +1,8 @@
 # Group-CYOA-with-Styles
 
 
-Review By
-Comments
+Review By: Bronel Lazar
+Comments: The story is very well structured and flowed together nicely, I see the buttons work properly and link to their respective pages, as well as no button being left unlinked. The only thing I can say as the biggest nitpick ever, is to fix "the" in this sentence - "Librarian mentions he luck with the gas station lottery (shes not so lucky)". Asides from that little thing, Great Work!
 
 ## Choose Your Own Adventure Group Project
 

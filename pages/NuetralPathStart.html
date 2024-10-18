@@ -3,27 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=>, initial-scale=1.0">
-    <title>Document</title>
+    <title>CYOA with Styles</title>
+    <link rel="stylesheet" href="../style/style.css">
 </head>
-<body>
-    <!--Body of Text-->
-    <div>
-        <p>
-            Walking out the door, you rush to the car. Nearly late for the concert, you must hurry on your way.
-You are now in the car, leaving your driveway.
-        </p>
-    </div>
+<body class="BackGroundImage" background="../assets/resources/Background/driveway.jpg">
+  <div class="game-container">
+        
+        <!--Bottom of page Text Box-->
+        <div class="text-box">
+          <h3>Narrator</h3>
+          <p id="story-text">Walking out the door, you rush to the car. Nearly late for the concert, you must hurry on your way.
+            You are now in the car, leaving your driveway.</p>
+        </div>
+        <div class="button-container">
+          <a href="./TakeAShortCutSUBNuetralPath.html"><button>Take a shortcut</button></a>
+          <a href=""><button>Take normal route</button></a>
+        </div>
+      </div>
 
-    <!--Options-->
-    <div>
-        <!--Path A-->
-        <p>
-            Take a shortcut
-        </p>
-        <!--Path B-->
-        <p>
-            Take normal route
-        </p>
-    </div>
-</body>
+    </body>
 </html>
